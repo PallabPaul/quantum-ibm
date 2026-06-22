@@ -1,0 +1,30 @@
+# --- Secrets / credentials (NEVER commit these) ---
+.env
+*.env
+!.env.example
+
+# Qiskit saved account credentials
+.qiskit/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# --- Generated output ---
+*.png
+*.json
+!package.json
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
