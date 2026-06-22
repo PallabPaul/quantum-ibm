@@ -3,3 +3,4 @@ qiskit-ibm-runtime>=0.30
 qiskit-aer>=0.15
 python-dotenv>=1.0
 matplotlib>=3.8
+pylatexenc>=2.10

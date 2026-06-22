@@ -4,12 +4,6 @@ A clean starter for running quantum circuits on the **IBM Quantum Platform**
 with [Qiskit](https://www.ibm.com/quantum/qiskit). Credentials are kept out of
 source code using a `.env` file.
 
-> ⚠️ **SECURITY — read first.** An API key was shared in plain text while
-> creating this project. Treat it as compromised: go to
-> <https://quantum.ibm.com/> → **Account settings** and **delete / regenerate**
-> the API key immediately, then paste the **new** key into `.env`.
-> Never paste API keys into chats, screenshots, or commits.
-
 ## Project structure
 
 ```
